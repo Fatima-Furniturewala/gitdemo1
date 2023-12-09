@@ -1,0 +1,2 @@
+Some modifications in new_feature_file_1.txt.
+Some modifications in new_feature_file_1.txt.
